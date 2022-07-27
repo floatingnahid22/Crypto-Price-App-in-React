@@ -1,6 +1,6 @@
 # Crypto Currency App
 
-[[!Netlify Link](https://cryptoapp007.netlify.app/)]
+[Netlify Link of this project](https://cryptoapp007.netlify.app/)
 
 # Getting Started with Create React App
 
